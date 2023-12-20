@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Makanan Shop</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_profile">Profile</string>
+    <string name="required_point">Rp %d</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Tambah ke Keranjang : Rp %d </string>
+    <string name="total_order">Total pesanan : Rp %d </string>
+    <string name="back">Back</string>
+    <string name="dicoding_reward"> </string>
+    <string name="share_message"> </string>
+    <string name="nasi_goreng_description">Nasi goreng adalah hidangan nasi yang digoreng dengan bumbu-bumbu seperti bawang putih, bawang merah, kecap manis, dan saus tiram. Biasanya ditambahkan dengan daging atau seafood, serta telur goreng di atasnya. Disajikan dengan pelengkap seperti mentimun, tomat, acar, dan kerupuk. Hidangan ini berasal dari Indonesia dan populer di berbagai negara.</string>
+    <string name="nasi_bebek_description">Nasi bebek adalah hidangan yang menggunakan daging bebek sebagai bahan utama, yang disajikan dengan nasi dan bumbu-bumbu khas. Daging bebek bisa diolah dengan berbagai cara, seperti digoreng, dipanggang, atau dimasak dalam saus khusus. Hidangan ini dapat disertai dengan pelengkap seperti sayuran, acar, atau sambal, sesuai dengan selera dan tradisi kuliner setempat. Nasi bebek sering menjadi pilihan yang lezat dan berbeda untuk penggemar masakan bebek atau bagi mereka yang ingin mencoba variasi baru dalam hidangan nasi.</string>
+    <string name="nasi_ayam_description">Nasi ayam adalah hidangan populer yang terdiri dari nasi yang dimasak bersama dengan bumbu-bumbu khusus dan disajikan dengan daging ayam. Hidangan ini memiliki variasi berbeda di berbagai negara dan daerah. Umumnya, daging ayam dimasak dengan bumbu seperti jahe, bawang putih, dan kecap, yang memberikan rasa khas pada hidangan ini.</string>
+    <string name="nasi_kambing_description">\nNasi kambing adalah hidangan yang menggunakan daging kambing sebagai bahan utama, disajikan dengan nasi dan bumbu-bumbu khas. Hidangan ini sering kali diolah dengan menggunakan rempah-rempah dan bumbu tradisional yang memberikan cita rasa khas dan aroma yang kaya.</string>
+    <string name="nasi_sapi_description">Nasi sapi adalah hidangan nasi yang disajikan dengan daging sapi yang dimasak bersama bumbu-bumbu khas. Daging sapi dapat diolah dengan berbagai metode, seperti direbus, dipanggang, atau digoreng, dan disajikan dengan nasi yang telah diolah bersama rempah-rempah. Hidangan ini biasanya memiliki rasa gurih dan kaya rempah, sering disertai dengan pelengkap seperti acar, lalapan, atau sambal</string>
+    <string name="soto_sapi_description">"Soto sapi adalah hidangan sup khas Indonesia yang menggunakan daging sapi sebagai bahan utama. Hidangan ini terdiri dari kuah yang kaya rempah-rempah, daging sapi yang dimasak dengan cara tertentu, serta bahan pelengkap lainnya. "</string>
+    <string name="soto_ayam_description">\nSoto ayam adalah hidangan sup tradisional Indonesia yang menggunakan daging ayam sebagai bahan utama</string>
+    <string name="steak_wagyu_description">Steak Wagyu adalah hidangan mewah yang menggunakan daging sapi Wagyu sebagai bahan utama. Wagyu adalah ras sapi yang berasal dari Jepang, dan dagingnya terkenal karena kandungan lemak intramuscular yang tinggi, yang memberikan rasa dan kelembutan yang luar biasa</string>
+    <string name="roti_bakar_description">Roti bakar adalah hidangan populer yang melibatkan memanggang atau menggoreng roti hingga menjadi kecoklatan dan renyah, seringkali dengan tambahan bahan-bahan tertentu</string>
+    <string name="nasi_ikan_description">Nasi ikan adalah hidangan yang menggunakan ikan sebagai bahan utama yang disajikan bersama dengan nasi dan bumbu-bumbu tertentu.</string>
+    <string name="default_description">Makanan ini pokoknya enak\n</string>
+</resources>
